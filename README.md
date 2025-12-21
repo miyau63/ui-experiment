@@ -11,3 +11,5 @@ pip install -r requirements.txt
 npm install
 
 python app.py
+
+http://127.0.0.1:5000/participant.html 
